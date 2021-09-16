@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Marcccccccc
 - 👀 I’m interested in becoming a Software Engineer
-- 🌱 I’m currently learning C++, Python, Java
+- 🌱 I’m currently learning JavaScript,Python, Java
 - 📫 How to reach me: https://www.linkedin.com/in/marc-simmendinger/
 
 
